@@ -7,7 +7,7 @@ An Augmented Reality (AR) application built with Python and OpenCV that detects 
 ## 📸 Demo
 
 ### Image Augmentation
-![Image AR Demo](demo/screenshots/ar_image_demo.png)
+![Image AR Demo](https://github.com/tefoLOGIC/AR-Application-using-ArUco-Markers/blob/df66386df41c668116cea7e3c62708b25792feb8/Images/01.jpg).
 
 ### Video Augmentation
 ![Video AR Demo](demo/screenshots/ar_video_demo.png)
