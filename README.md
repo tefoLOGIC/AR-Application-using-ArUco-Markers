@@ -10,7 +10,7 @@ An Augmented Reality (AR) application built with Python and OpenCV that detects 
 ![Image AR Demo](https://github.com/tefoLOGIC/AR-Application-using-ArUco-Markers/blob/df66386df41c668116cea7e3c62708b25792feb8/Images/01.jpg).
 
 ### Video Augmentation
-![Video AR Demo](demo/screenshots/ar_video_demo.png)
+![Video AR Demo](https://github.com/tefoLOGIC/AR-Application-using-ArUco-Markers/blob/7635b6ed0698b2b7a50c159a0408a203f5e28b32/Videos/VIDEO%20(EX).mp4).
 
 ---
 
